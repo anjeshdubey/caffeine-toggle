@@ -21,7 +21,7 @@ Easiest path on modern macOS (Ventura+): Shortcuts app.
 1. Open **Shortcuts** → new shortcut → add action **Run Shell Script**.
 2. Set shell to `/bin/bash`, script to:
    ```
-   /Users/anjeshdubey/projects/caffeine-toggle/bin/caffeine-toggle.sh
+   ~/projects/caffeine-toggle/bin/caffeine-toggle.sh
    ```
 3. Name it "Toggle Caffeine".
 4. In the shortcut's details (info button), enable **Add to Quick Actions** /
